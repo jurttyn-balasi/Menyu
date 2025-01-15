@@ -1,5 +1,5 @@
 from aiogram import types, Dispatcher,Bot,executor
-#bvlfkbvbfwlj
+
 from my_buttons import main_menu
 from my_buttons import awqat_menu
 from my_buttons import pizzas
